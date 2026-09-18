@@ -6,6 +6,7 @@ An intelligent AI chat assistant with real-time streaming responses, JWT authent
 <img width="1432" height="810" alt="Screenshot 2026-09-18 at 10 14 31 AM" src="https://github.com/user-attachments/assets/bd1f2092-44d8-42d8-b313-efbac4bf6c2a" />
 <img width="1434" height="814" alt="Screenshot 2026-09-18 at 10 14 54 AM" src="https://github.com/user-attachments/assets/9611dfcf-c8ea-4e27-ba4b-717a29652e8d" />
 <img width="1435" height="810" alt="Screenshot 2026-09-18 at 10 15 13 AM" src="https://github.com/user-attachments/assets/06bb6657-8e4a-4c92-983c-5f4af40bc5b7" />
+<img width="1456" height="730" alt="Screenshot 2026-09-18 at 10 20 13 AM" src="https://github.com/user-attachments/assets/f640ed4f-4018-4a56-8e55-4f811630a98c" />
 
 
 ---
